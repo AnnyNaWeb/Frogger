@@ -1,0 +1,3 @@
+C:\Users\Raphael\Downloads\Frogger\Frogger\Frogger\Frogger\obj\x86\Debug2\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Raphael\Downloads\Frogger\Frogger\Frogger\Frogger\obj\x86\Debug2\Frogger.csproj.CoreCompileInputs.cache
+C:\Users\Raphael\Downloads\Frogger\Frogger\Frogger\Frogger\obj\x86\Debug2\Frogger.csprojAssemblyReference.cache

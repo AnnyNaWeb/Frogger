@@ -1,0 +1,7 @@
+C:\Users\guilh\Documents\Visual Studio 2010\Projects\Frogger\Frogger\FroggerContent\obj\x86\Debug\FroggerContent.contentprojResolveAssemblyReference.cache
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\V Domingo\Frogger\Frogger\FroggerContent\obj\x86\Debug\FroggerContent.contentprojResolveAssemblyReference.cache
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\V Quarta\Frogger\Frogger\FroggerContent\obj\x86\Debug\FroggerContent.contentprojResolveAssemblyReference.cache
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\V Quarta.1\Frogger\Frogger\FroggerContent\obj\x86\Debug\FroggerContent.contentprojResolveAssemblyReference.cache
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\v quinta\Frogger\Frogger\FroggerContent\obj\x86\Debug\FroggerContent.contentprojResolveAssemblyReference.cache
+C:\Users\Raphael\Downloads\Frogger\Frogger\Frogger\FroggerContent\obj\x86\Debug\FroggerContent.contentproj.CoreCompileInputs.cache
+C:\Users\Raphael\Downloads\Frogger\Frogger\Frogger\FroggerContent\obj\x86\Debug\FroggerContent.contentprojAssemblyReference.cache

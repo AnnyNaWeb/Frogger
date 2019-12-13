@@ -1,0 +1,2 @@
+C:\Users\Raphael\Downloads\Frogger\Frogger\Frogger\FroggerContent\obj\x86\Release\FroggerContent.contentprojAssemblyReference.cache
+C:\Users\Raphael\Downloads\Frogger\Frogger\Frogger\FroggerContent\obj\x86\Release\FroggerContent.contentproj.CoreCompileInputs.cache

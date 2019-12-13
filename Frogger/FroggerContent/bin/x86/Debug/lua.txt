@@ -1,0 +1,8 @@
+
+
+
+if time < 500 then
+time = gt.ElapsedGameTime.Milliseconds + time;
+end
+MovePlayer(time);
+print(time);

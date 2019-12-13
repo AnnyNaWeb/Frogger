@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Images\Scene\fundo.png</Source>
+      <Name>Images\Scene\fundo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\guilh\Documents\Visual Studio 2010\Projects\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Scene\fundo.xnb</Output>
+      <Time>2017-04-14T22:02:10.0238629-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Objects\tronco-g.png</Source>
+      <Name>Images\Objects\tronco-g</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\guilh\Documents\Visual Studio 2010\Projects\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Objects\tronco-g.xnb</Output>
+      <Time>2017-04-14T19:20:26.6061994-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Objects\tronco-m.png</Source>
+      <Name>Images\Objects\tronco-m</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\guilh\Documents\Visual Studio 2010\Projects\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Objects\tronco-m.xnb</Output>
+      <Time>2017-04-14T19:20:26.6218019-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Objects\tronco-p.png</Source>
+      <Name>Images\Objects\tronco-p</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\guilh\Documents\Visual Studio 2010\Projects\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Objects\tronco-p.xnb</Output>
+      <Time>2017-04-14T19:20:26.6061994-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Enemies\tartaruga.png</Source>
+      <Name>Images\Enemies\tartaruga</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\guilh\Documents\Visual Studio 2010\Projects\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Enemies\tartaruga.xnb</Output>
+      <Time>2017-04-14T19:20:39.6741165-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Player\sapo-v.png</Source>
+      <Name>Images\Player\sapo-v</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\guilh\Documents\Visual Studio 2010\Projects\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Player\sapo-v.xnb</Output>
+      <Time>2017-04-14T19:40:40.6511746-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\trilha.mp3</Source>
+      <Name>Audio\trilha</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\guilh\Documents\Visual Studio 2010\Projects\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Audio\trilha.xnb</Output>
+      <Extra>C:\Users\guilh\Documents\Visual Studio 2010\Projects\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Audio\trilha.wma</Extra>
+      <Time>2017-04-14T21:12:22.6594361-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Player\player-up.png</Source>
+      <Name>Images\Player\player-up</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\guilh\documents\visual studio 2010\Projects\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Player\player-up.xnb</Output>
+      <Time>2017-04-16T22:10:21.3721803-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Player\player-down.png</Source>
+      <Name>Images\Player\player-down</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\guilh\documents\visual studio 2010\Projects\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Player\player-down.xnb</Output>
+      <Time>2017-04-16T22:10:21.364175-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Player\player-left.png</Source>
+      <Name>Images\Player\player-left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\guilh\documents\visual studio 2010\Projects\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Player\player-left.xnb</Output>
+      <Time>2017-04-16T22:10:21.3666769-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Player\player-right.png</Source>
+      <Name>Images\Player\player-right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\guilh\documents\visual studio 2010\Projects\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Player\player-right.xnb</Output>
+      <Time>2017-04-16T22:10:21.3686786-03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID Null="true" />
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\guilh\documents\visual studio 2010\Projects\Frogger\Frogger\FroggerContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\guilh\documents\visual studio 2010\Projects\Frogger\Frogger\Frogger\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\guilh\documents\visual studio 2010\Projects\Frogger\Frogger\FroggerContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\guilh\documents\visual studio 2010\Projects\Frogger\Frogger\Frogger\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T15:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T15:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T15:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T15:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T15:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T15:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2017-01-18T08:42:44.6722335-03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

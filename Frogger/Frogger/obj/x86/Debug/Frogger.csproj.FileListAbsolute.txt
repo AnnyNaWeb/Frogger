@@ -1,0 +1,135 @@
+C:\Users\guilh\Documents\Visual Studio 2010\Projects\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Scene\fundo.xnb
+C:\Users\guilh\Documents\Visual Studio 2010\Projects\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Objects\tronco-g.xnb
+C:\Users\guilh\Documents\Visual Studio 2010\Projects\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Objects\tronco-m.xnb
+C:\Users\guilh\Documents\Visual Studio 2010\Projects\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Objects\tronco-p.xnb
+C:\Users\guilh\Documents\Visual Studio 2010\Projects\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Enemies\tartaruga.xnb
+C:\Users\guilh\Documents\Visual Studio 2010\Projects\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Player\sapo-v.xnb
+C:\Users\guilh\Documents\Visual Studio 2010\Projects\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Audio\trilha.xnb
+C:\Users\guilh\Documents\Visual Studio 2010\Projects\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Audio\trilha.wma
+C:\Users\guilh\Documents\Visual Studio 2010\Projects\Frogger\Frogger\Frogger\bin\x86\Debug\Frogger.exe
+C:\Users\guilh\Documents\Visual Studio 2010\Projects\Frogger\Frogger\Frogger\bin\x86\Debug\Frogger.pdb
+C:\Users\guilh\Documents\Visual Studio 2010\Projects\Frogger\Frogger\Frogger\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\guilh\Documents\Visual Studio 2010\Projects\Frogger\Frogger\Frogger\obj\x86\Debug\Frogger.exe
+C:\Users\guilh\Documents\Visual Studio 2010\Projects\Frogger\Frogger\Frogger\obj\x86\Debug\Frogger.pdb
+C:\Users\guilh\Documents\Visual Studio 2010\Projects\Frogger\Frogger\Frogger\obj\x86\Debug\Frogger.csprojResolveAssemblyReference.cache
+C:\Users\guilh\documents\visual studio 2010\Projects\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Player\player-up.xnb
+C:\Users\guilh\documents\visual studio 2010\Projects\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Player\player-down.xnb
+C:\Users\guilh\documents\visual studio 2010\Projects\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Player\player-left.xnb
+C:\Users\guilh\documents\visual studio 2010\Projects\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Player\player-right.xnb
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\V Domingo\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Objects\tronco-g.xnb
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\V Domingo\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Objects\tronco-m.xnb
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\V Domingo\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Objects\tronco-p.xnb
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\V Domingo\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Enemies\tartaruga.xnb
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\V Domingo\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Player\sapo-v.xnb
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\V Domingo\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Scene\fundo.xnb
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\V Domingo\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Player\player-down.xnb
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\V Domingo\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Player\player-left.xnb
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\V Domingo\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Player\player-right.xnb
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\V Domingo\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Player\player-up.xnb
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\V Domingo\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Audio\trilha.xnb
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\V Domingo\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Audio\trilha.wma
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\V Domingo\Frogger\Frogger\Frogger\bin\x86\Debug\Frogger.exe
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\V Domingo\Frogger\Frogger\Frogger\bin\x86\Debug\Frogger.pdb
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\V Domingo\Frogger\Frogger\Frogger\obj\x86\Debug\Frogger.csprojResolveAssemblyReference.cache
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\V Domingo\Frogger\Frogger\Frogger\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\V Domingo\Frogger\Frogger\Frogger\obj\x86\Debug\Frogger.exe
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\V Domingo\Frogger\Frogger\Frogger\obj\x86\Debug\Frogger.pdb
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\V Quarta\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Objects\tronco-g.xnb
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\V Quarta\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Objects\tronco-m.xnb
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\V Quarta\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Objects\tronco-p.xnb
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\V Quarta\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Enemies\tartaruga.xnb
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\V Quarta\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Player\sapo-v.xnb
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\V Quarta\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Scene\fundo.xnb
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\V Quarta\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Player\player-down.xnb
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\V Quarta\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Player\player-left.xnb
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\V Quarta\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Player\player-right.xnb
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\V Quarta\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Player\player-up.xnb
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\V Quarta\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Audio\trilha.xnb
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\V Quarta\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Audio\trilha.wma
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\V Quarta\Frogger\Frogger\Frogger\bin\x86\Debug\Frogger.exe
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\V Quarta\Frogger\Frogger\Frogger\bin\x86\Debug\Frogger.pdb
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\V Quarta\Frogger\Frogger\Frogger\obj\x86\Debug\Frogger.csprojResolveAssemblyReference.cache
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\V Quarta\Frogger\Frogger\Frogger\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\V Quarta\Frogger\Frogger\Frogger\obj\x86\Debug\Frogger.exe
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\V Quarta\Frogger\Frogger\Frogger\obj\x86\Debug\Frogger.pdb
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\V Quarta\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Fonts\Arial.xnb
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\V Quarta.1\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Objects\tronco-g.xnb
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\V Quarta.1\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Objects\tronco-m.xnb
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\V Quarta.1\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Objects\tronco-p.xnb
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\V Quarta.1\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Enemies\tartaruga.xnb
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\V Quarta.1\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Player\sapo-v.xnb
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\V Quarta.1\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Scene\fundo.xnb
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\V Quarta.1\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Player\player-down.xnb
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\V Quarta.1\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Player\player-left.xnb
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\V Quarta.1\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Player\player-right.xnb
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\V Quarta.1\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Player\player-up.xnb
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\V Quarta.1\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Enemies\turtles.xnb
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\V Quarta.1\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Enemies\troncoP.xnb
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\V Quarta.1\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Audio\trilha.xnb
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\V Quarta.1\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Fonts\Arial.xnb
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\V Quarta.1\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Audio\trilha.wma
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\V Quarta.1\Frogger\Frogger\Frogger\bin\x86\Debug\Frogger.exe
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\V Quarta.1\Frogger\Frogger\Frogger\bin\x86\Debug\Frogger.pdb
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\V Quarta.1\Frogger\Frogger\Frogger\obj\x86\Debug\Frogger.csprojResolveAssemblyReference.cache
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\V Quarta.1\Frogger\Frogger\Frogger\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\V Quarta.1\Frogger\Frogger\Frogger\obj\x86\Debug\Frogger.exe
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\V Quarta.1\Frogger\Frogger\Frogger\obj\x86\Debug\Frogger.pdb
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\V Quarta.1\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Scene\time.xnb
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\v quinta\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Objects\tronco-g.xnb
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\v quinta\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Objects\tronco-m.xnb
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\v quinta\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Objects\tronco-p.xnb
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\v quinta\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Enemies\tartaruga.xnb
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\v quinta\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Player\sapo-v.xnb
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\v quinta\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Scene\fundo.xnb
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\v quinta\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Player\player-down.xnb
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\v quinta\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Player\player-left.xnb
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\v quinta\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Player\player-right.xnb
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\v quinta\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Player\player-up.xnb
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\v quinta\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Enemies\turtles.xnb
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\v quinta\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Enemies\troncoP.xnb
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\v quinta\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Scene\time.xnb
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\v quinta\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Audio\trilha.xnb
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\v quinta\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Fonts\Arial.xnb
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\v quinta\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Audio\trilha.wma
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\v quinta\Frogger\Frogger\Frogger\bin\x86\Debug\Frogger.exe
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\v quinta\Frogger\Frogger\Frogger\bin\x86\Debug\Frogger.pdb
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\v quinta\Frogger\Frogger\Frogger\obj\x86\Debug\Frogger.csprojResolveAssemblyReference.cache
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\v quinta\Frogger\Frogger\Frogger\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\v quinta\Frogger\Frogger\Frogger\obj\x86\Debug\Frogger.exe
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\v quinta\Frogger\Frogger\Frogger\obj\x86\Debug\Frogger.pdb
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\v quinta\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Enemies\troncoG.xnb
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\v quinta\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Enemies\troncoM.xnb
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\v quinta\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Enemies\caminhao.xnb
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\v quinta\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Enemies\car1.xnb
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\v quinta\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Enemies\car2.xnb
+C:\Users\Home\Estudantil\GERAL\IFRJ\JOGOS DIGITAIS\IA\20-04 Frogger\v quinta\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Enemies\car3.xnb
+C:\Users\Raphael\Downloads\Frogger\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Objects\tronco-g.xnb
+C:\Users\Raphael\Downloads\Frogger\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Objects\tronco-m.xnb
+C:\Users\Raphael\Downloads\Frogger\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Objects\tronco-p.xnb
+C:\Users\Raphael\Downloads\Frogger\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Enemies\tartaruga.xnb
+C:\Users\Raphael\Downloads\Frogger\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Player\sapo-v.xnb
+C:\Users\Raphael\Downloads\Frogger\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Scene\fundo.xnb
+C:\Users\Raphael\Downloads\Frogger\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Player\player-down.xnb
+C:\Users\Raphael\Downloads\Frogger\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Player\player-left.xnb
+C:\Users\Raphael\Downloads\Frogger\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Player\player-right.xnb
+C:\Users\Raphael\Downloads\Frogger\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Player\player-up.xnb
+C:\Users\Raphael\Downloads\Frogger\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Enemies\turtles.xnb
+C:\Users\Raphael\Downloads\Frogger\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Enemies\troncoP.xnb
+C:\Users\Raphael\Downloads\Frogger\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Scene\time.xnb
+C:\Users\Raphael\Downloads\Frogger\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Enemies\troncoG.xnb
+C:\Users\Raphael\Downloads\Frogger\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Enemies\troncoM.xnb
+C:\Users\Raphael\Downloads\Frogger\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Enemies\caminhao.xnb
+C:\Users\Raphael\Downloads\Frogger\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Enemies\car1.xnb
+C:\Users\Raphael\Downloads\Frogger\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Enemies\car2.xnb
+C:\Users\Raphael\Downloads\Frogger\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Images\Enemies\car3.xnb
+C:\Users\Raphael\Downloads\Frogger\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Audio\trilha.xnb
+C:\Users\Raphael\Downloads\Frogger\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Fonts\Arial.xnb
+C:\Users\Raphael\Downloads\Frogger\Frogger\Frogger\Frogger\bin\x86\Debug\Content\Audio\trilha.wma
+C:\Users\Raphael\Downloads\Frogger\Frogger\Frogger\Frogger\bin\x86\Debug\Frogger.exe
+C:\Users\Raphael\Downloads\Frogger\Frogger\Frogger\Frogger\bin\x86\Debug\Frogger.pdb
+C:\Users\Raphael\Downloads\Frogger\Frogger\Frogger\Frogger\obj\x86\Debug\Frogger.csprojAssemblyReference.cache
+C:\Users\Raphael\Downloads\Frogger\Frogger\Frogger\Frogger\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Raphael\Downloads\Frogger\Frogger\Frogger\Frogger\obj\x86\Debug\Frogger.csproj.CoreCompileInputs.cache
+C:\Users\Raphael\Downloads\Frogger\Frogger\Frogger\Frogger\obj\x86\Debug\Frogger.csproj.CopyComplete
+C:\Users\Raphael\Downloads\Frogger\Frogger\Frogger\Frogger\obj\x86\Debug\Frogger.exe
+C:\Users\Raphael\Downloads\Frogger\Frogger\Frogger\Frogger\obj\x86\Debug\Frogger.pdb
